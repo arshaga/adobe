@@ -213,3 +213,9 @@ a {
   padding-left:0
  }
 }
+.row
+{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 50px;
+}
