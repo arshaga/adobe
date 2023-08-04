@@ -145,7 +145,7 @@ a {
  background:#e7e8ed
 }
 .footer-big .footer-menu ul li a,.footer-big p,.footer-big ul li {
- color:#898b96
+ color:#0a0707
 }
 .footer-menu {
  padding-left:4px;
@@ -170,7 +170,7 @@ a {
  font-size:18px
 }
 .mini-footer {
- background:#192027;
+ background:#e3eaf1;
  text-align:center;
  padding:32px 0
 }
@@ -178,7 +178,8 @@ a {
  margin:0;
  line-height:26px;
  font-size:8px;
- color:#999
+ color:#070606
+
 }
 .mini-footer p a {
  color:#5867dd
@@ -218,4 +219,10 @@ a {
     padding-top: 6px;
     padding-bottom: 6px;
     padding-left: 50px;
+}
+.h{
+    background-color: #232121
+}
+.icon{
+
 }
