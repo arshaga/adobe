@@ -61,6 +61,7 @@ i{
    margin-left: 10px;
    font-size: 1.rem;
    line-height: 1.375rem;
+   width: 100%;
 }
 .width{
     width: 25%;
@@ -216,11 +217,11 @@ a {
   padding-left:0
  }
 }
-.row{
+/* .row{
     padding-top: 6px;
     padding-bottom: 6px;
     padding-left: 10px;
-}
+} */
 .h{
     background-color: #232121
 }
@@ -272,4 +273,7 @@ a {
     position: relative;
     text-decoration: none;
     text-transform: none;
+  }
+  .col-md-12{
+    width: auto;
   }
