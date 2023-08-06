@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.dropdown{
+    background: #2754ac;
+    margin-top: 10px;
+    /* position: absolute; */
+}
+.dropdown-menu{
+    width: 100%;
+    z-index: 2;
+}
+.dropdown-toggle{
+    color: #fff;
+    text-decoration: none;
+}
+.dropdown-toggle:hover{
+    color: #fff;
+    background: #27547c;
+    text-decoration: none;
+}
+.row{
+    width: 100%;
+}
