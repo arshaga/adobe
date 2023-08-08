@@ -36,13 +36,11 @@ i{
     background: rgb(245, 27, 27);
     width: 450px;
     height: 100%;
-    margin-left:250px;
 }
 .cardbody3{
     background: rgb(189, 9, 153);
     width: 450px;
     height: 98px;
-    margin-left:250px;
 }
 .para2{ 
     font-size: 1.500rem;
@@ -53,7 +51,7 @@ i{
     background: rgb(189, 9, 153);
     width: 440px;
     height: 405px;
-    padding-left: 5px;
+    padding-left: 15px;
     margin-top: 30px;
     float: left;
 }.row{
