@@ -274,3 +274,35 @@ a {
   .col-md-12{
     width: auto;
   }
+  *{
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-weight: 400;
+    font-style: 14px;
+    box-sizing:border-box;
+line-height:2;
+}
+.dropdown{
+    background: #f7f9fd;
+    margin-top: 10px;
+    /* position: absolute; */
+}
+.dropdown-menu{
+    width: 100%;
+    z-index: 2;
+}
+.dropdown-toggle{
+    color: #fff;
+    text-decoration: none;
+}
+.dropdown-toggle:hover{
+    color: #fff;
+   
+    text-decoration: none;
+}
+.row{
+    width: 100%;
+} 
